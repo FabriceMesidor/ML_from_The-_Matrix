@@ -1,5 +1,5 @@
 # ML_from_The-_Matrix
-Using ML, NLP and graph theory to analyze the Matrix movie scripts and actors relationship
+Using ML (classification models), NLP and graph theory (eventually) to analyze the Matrix and the Matrix Reloaded movie scripts and actors relationship
 
 # JUSTIFICATION
 Love for the Matrix trilogy
@@ -13,5 +13,7 @@ website
 NLP for words / stats re actors
 
 # TOPIC MODELING
+
+# CLASSIFICATION MODELS
 
 # SOCIAL GRAPH
